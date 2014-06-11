@@ -1,0 +1,6 @@
+node_modules/
+bower_components/
+sftp-config.json
+test*
+
+config.sh
